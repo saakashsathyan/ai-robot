@@ -1,6 +1,6 @@
-# AI Robotics Projects — Research & Concept Selection
+# AI Robotics Projects – Research & Concept Selection
 
-**Status:** Still researching — figuring out which of these two to actually build
+**Status:** Still researching – figuring out which of these two to actually build  
 **Working with:** an industry mentor (System Architect, Google)
 
 ## What this is
@@ -19,16 +19,16 @@ off edges, and talk with you using an AI model for the "brain."
 **What I've figured out so far:**
 - Split the computing into two parts: a Raspberry Pi handles the camera/voice/AI
   side, and a separate ESP32 microcontroller handles driving and obstacle
-  avoidance directly — that way the robot doesn't wait on an AI response just to
+  avoidance directly – that way the robot doesn't wait on an AI response just to
   avoid running into a wall
-- Went with a simple 2-wheel drive + caster ball wheel setup instead of tank treads — easier to
+- Went with a simple 2-wheel drive + caster ball wheel setup instead of tank treads – easier to
   build and control at this size
 - Planning to use camera attached to a full-rotation gimbal for visuals + edge/fall detection
 
 
 ## Idea 2: AI Drawing Robot
 
-A desk robot that draws pictures — similar to the drawing-robot toys you can
+A desk robot that draws pictures – similar to the drawing-robot toys you can
 find online, but instead of only drawing from a fixed set of preset images, it
 would use AI to figure out how to draw whatever image you give it.
 
