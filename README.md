@@ -64,10 +64,10 @@ Simpler to build and control at this scale than tank treads, and gives adequate 
 
 ```
 /
-├── cad/          # SolidWorks and other CAD files
 ├── bom/          # Bills of materials and component trade studies
-├── research/     # Component datasheets, notes, and reference material
+├── cad/          # SolidWorks and other CAD files
 ├── docs/         # Design documents and meeting notes
+├── research/     # Component datasheets, notes, and reference material
 └── README.md
 ```
 
